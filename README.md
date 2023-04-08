@@ -1,6 +1,6 @@
 # test-task
 
-The HTTP Endpoints testing tool.
+The HTTP endpoints testing tool.
 
 ## Requirements
 
@@ -9,11 +9,11 @@ The HTTP Endpoints testing tool.
 
 ## Usage
 
-### Run test-task server locally from the repo
+### Run the test-task server locally from the repo
 
 `shards run test-task`
 
-### Run test-task server as a docker container
+### Run the test-task server as a docker container
 
 `docker run -p 8080:8080 --rm -d foifirst/test-task`
 
