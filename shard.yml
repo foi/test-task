@@ -1,0 +1,13 @@
+name: test-task
+version: 0.1.0
+
+authors:
+  - Kupchenko Alexander <kupchenko@mc2soft.ru>
+
+targets:
+  test-task:
+    main: src/test-task.cr
+
+crystal: 1.7.3
+
+license: MIT

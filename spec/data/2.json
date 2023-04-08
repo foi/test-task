@@ -1,0 +1,25 @@
+{
+  "endpoints": [
+    {
+      "url": "https://www.google.com"
+    },
+    {
+      "url": "https://github.com/"
+    },
+    {
+      "url": "https://github.com/",
+      "method": "POST",
+      "body": "body sample",
+      "headers": [
+        {
+          "name": "header1",
+          "value": "value1"
+        },
+        {
+          "name": "name111",
+          "value": "value111"
+        }
+      ]
+    }
+  ]
+}

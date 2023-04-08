@@ -1,0 +1,26 @@
+{
+   "endpoints": [
+      {
+         "method": "POST",
+         "url": "http://localhost:8081",
+         "headers": [
+            {
+               "name": "Cookie",
+               "value": "token=DEADCAFE"
+            }
+         ],
+         "body": "hello"
+      },
+      {
+         "url": "https://reqbin.com/post-online"
+      },
+      {
+         "url": "https://www.baddomain2222.com"
+      },
+      {
+         "url": "www.baddomain1111.com"
+      }
+   ],
+   "num_requests": 5,
+   "retry_failed": true
+}
