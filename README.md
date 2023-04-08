@@ -4,8 +4,8 @@ The HTTP Endpoints testing tool.
 
 ## Requirements
 
-You should have crystall installed (optional).
-You should clone the repo (optional).
+- You should have crystall installed (optional).
+- You should clone the repo (optional).
 
 ## Usage
 
